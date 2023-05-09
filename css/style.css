@@ -1,0 +1,242 @@
+
+
+#menu{
+    height: 80px;
+    padding: 0 20px;
+}
+
+#logo{
+    font-size: 30px;
+    line-height: 80px;
+    float: left;
+}
+
+nav{
+    float: right;
+    line-height: 80px;
+}
+
+nav a:link{
+    text-decoration: none;
+    margin-right: 10px;
+    
+}
+
+
+/* Header */
+
+@media screen and (max-width: 1050px) {
+    .main-header .logo {
+        padding-left: 30px!important;
+        
+    }
+    }
+
+  
+  .main-header {
+      background-color: black;
+      height: 80px;
+      position: fixed;
+      z-index: 12;
+      width: 100%;
+      top: 0;
+  }
+  
+  .main-header .logo {
+      float: left;
+      line-height: 80px;
+      padding-left: 60px;
+  }
+  
+  .main-header .logo a {
+      font-size: 36px;
+      text-transform: uppercase;
+      font-weight: 800;
+      color: #fff;
+  }
+  .main-header .logo a em {
+      font-style: normal;
+      color: red;
+  }
+  
+  .main-menu {
+      float: right;
+      padding-right: 60px;
+  }
+  
+  .main-menu li {
+      display: inline-block;
+      line-height: 79px;
+      margin-left: 15px;
+      position: relative;
+  }
+  
+
+  .main-menu li a {
+      padding: 10px 15px;
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      font-weight: 700;
+      color: #fff;
+      border: 2px solid transparent;
+      transition: all 0.5s;
+  }
+  
+  .main-menu li.has-submenu a:after {
+      content: '\f107';
+      font-family: "FontAwesome";
+      margin-left: 5px;
+  }
+  
+  .main-menu li.has-submenu ul li a:after {
+      display: none;
+  }
+  
+  .main-menu li .sub-menu {
+      position: absolute;
+      width: 170px;
+      background-color: black;
+      opacity: 0;
+      visibility: hidden;
+      transition: all 0.5s;
+  }
+  
+  .main-menu li:hover .sub-menu {
+      opacity: 1;
+      visibility: visible;
+  }
+  
+  .main-menu li .sub-menu li {
+      display: block;
+      line-height: 20px;
+      margin-left: 0px;
+      margin-bottom: 15px;
+      padding-bottom: 15px;
+  }
+  
+  .main-menu li .sub-menu li:first-child {
+      padding-top: 15px;
+  }
+  
+  .main-menu li .sub-menu li:last-child {
+      margin-bottom: 0px;
+      border-bottom: none;
+  }
+  
+  .main-menu li .sub-menu li a {
+      font-size: 12px;
+      font-weight: 500;
+      padding: 0px 5px;
+      letter-spacing: 0.5px;
+      border: none;
+      transition: all 0.5s;
+  }
+  
+  .main-menu li .sub-menu li a:hover {
+      color: red;
+      border: none;
+  }
+  
+  .main-nav li:hover a,
+  .main-nav li.active a {
+      border: 2px solid red;
+  }
+  
+
+
+
+
+  /* aaaaaaaaaaaaa */
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+p {
+    font-size: 13px;
+    line-height: 22px;
+}
+
+
+
+
+#arkaplan{
+    box-shadow: inset 0 0 0 2000px rgb(37, 37, 37);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    background-color: rgb(29 29 29 / 85%);
+    position: relative; 
+    width: 100%; /*  internet explorer 6 için*/
+ }
+#h2 { 
+    position: absolute; 
+    top: 150px; 
+    left: 70px;
+    color:red; 
+    margin-top: 200px;
+    margin-left: 420px;
+    font-size: 50px;
+    font-weight: 900;
+    
+ }
+
+ #h22 { 
+    position: absolute; 
+    top: 150px; 
+    left: 70px;
+    color:white; 
+    margin-top: 290px;
+    margin-left: 500px;
+    font-size: 50px;
+    font-weight: 900;
+ }
+
+#buy{
+    position: absolute; 
+    font-family: 'Open Sans', sans-serif;
+    padding: 12px 20px;
+    top: 350px; 
+    left: 70px;
+    color:white; 
+    margin-top: 200px;
+    margin-left: 565px;
+    font-size: 24px;
+    font-weight: 900;
+    background-color:red;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

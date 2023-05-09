@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: poppins;
+    box-sizing: border-box;
+    text-align: center;
+    box-sizing: border-box;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: poppins;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    margin-top: 75px;
+    background-image: url(../img/news-image.jpg);
+
+
+}
+
+.yazi {
+   margin-top: 15px;
+   margin-bottom: 15px;
+}
+
+p{
+    color: #fff;
+}
+
+h1, h2{
+    color: red;
+}

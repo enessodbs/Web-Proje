@@ -5,7 +5,7 @@
         <meta name="wiewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="css/join-our-team.css">
         <link rel="icon" href="img/favicon.ico" type="image/x-icon">
-        <title>THE WITCHER | JOIN OUR TEAM</title>
+        <title>Join Our Team</title>
     </head>
     <body>
         <script src="https://kit.fontawesome.com/16b0294914.js" crossorigin="anonymous"></script>

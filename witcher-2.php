@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-    <title>THE WITCHER | ASSASSINS OF KING</title>
+    <title>Witcher2</title>
     <link rel="stylesheet" href="css/scroll-bar.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/witcher.css">

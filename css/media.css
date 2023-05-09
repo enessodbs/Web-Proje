@@ -1,0 +1,28 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: poppins;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    
+}
+body{
+    color: #fff;
+    background-image: url(../img/news-image.jpg);
+    margin-top: 90px; 
+    text-align: center;
+}
+h1{
+ text-align: center;
+
+ font-size: 40px;
+ margin: 10px;
+}
+
+.sutun img{
+    width: 270px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+}

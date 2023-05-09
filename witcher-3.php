@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-    <title>THE WITCHER | WILD HUNT</title>
+    <title>Witcher3</title>
     <link rel="stylesheet" href="css/scroll-bar.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/witcher.css">

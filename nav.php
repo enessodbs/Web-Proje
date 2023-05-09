@@ -12,7 +12,7 @@
         
    
 
-        <link href="https://fonts.googleapis.com/css2?family=Nunito&family=Open+Sans:wght@800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu:ital,wght@1,300&display=swap" rel="stylesheet">
+        
         <script src="https://kit.fontawesome.com/16b0294914.js" crossorigin="anonymous"></script>
         <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">
         <script src="https://kit.fontawesome.com/07ff1ef13a.js" crossorigin="anonymous"></script>
@@ -29,9 +29,7 @@
     height: 80px;
     padding: 0 20px;
 }
-a {
-    text-decoration: none;
-}
+
 #logo{
     font-size: 30px;
     line-height: 80px;
@@ -185,7 +183,7 @@ nav a:link{
                     <li><a href="news.php">News</a></li>
                     
                     <li><a href="media.php">Media</a></li>
-                    <li><a href="karakter.php">Characters</a></li>
+                    <li><a target="_blank" href="karakter.php">Characters</a></li>
                     <li class="has-submenu"><a href="">Contact Us</a>
                     <ul class="sub-menu">
                         <li><a target="_blank" href="our-team.php">Our Team</a></li>

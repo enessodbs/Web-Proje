@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>THE WITCHER | PRIVACY POLICY</title>
+    <title>Gizlilik Politikamız</title>
   
     <link rel="stylesheet" href="css/scroll-bar.css">
     <link rel="stylesheet" href="css/style.css">

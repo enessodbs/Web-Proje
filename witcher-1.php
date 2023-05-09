@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <head>
-    <title>THE WITCHER | ENHANCED EDITION</title>
+    <title>Witcher</title>
+   
     <link rel="stylesheet" href="css/scroll-bar.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/witcher.css">

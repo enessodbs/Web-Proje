@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <title>THE WITCHER | MEDIA</title>
+
     <link rel="stylesheet" href="css/scroll-bar.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/media.css">

@@ -74,25 +74,25 @@
             <footer class="footer-nav">
                  <ul class="footer-nav__items">
                     <li class="footer-nav__item">
-                        <a href="witcher-3.php">GAMES</a>
+                        <a target="_blank" href="#">GAMES</a>
                                 
                     </li>
                     <li class="footer-nav__item">
-                        <a href="news.php">NEWS</a>
+                        <a target="_blank" href="#">NEWS</a>
                     </li>
                     <li class="footer-nav__item">
                         <a target="_blank" href="contact-us.php">CONTANCT US</a>
                             
                     </li>
                     <li class="footer-nav__item">
-                         <a href="media.php">MEDIA</a>
+                         <a target="_blank" href="#">MEDIA</a>
                     </li>
                         
                     <li class="footer-nav__item">
-                        <a href="karakter.php">CHARACTERS</a>
+                        <a target="_blank" href="karakter.php">CHARACTERS</a>
                     </li>
                     <li class="footer-nav__item">
-                        <a href="gizlilik.php">PRIVACY POLICY</a>
+                        <a target="_blank" href="gizlilik.php">PRIVACY POLICY</a>
                     </li>
                  
                     <li class="socail-media">
